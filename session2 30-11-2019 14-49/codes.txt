@@ -1,0 +1,3 @@
+48027 38027 E1940 M3335 A2171
+Duration in nanosecs:1059375646000
+Duration in secs:1059
